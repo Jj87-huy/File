@@ -2,7 +2,7 @@
   "keys": {
     "LBot-S0gwMDAxLXByZW1pdW0tMzBk": {
       "plan": "premium",
-      "duration": "90d"
+      "duration": "3m"
     },
     "LBot-S0gwMDAyLWZyZWUtMzBk": {
       "plan": "free",
